@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Untuk Venitha Sari 💖</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffdde1;
+            color: #d63384;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3em;
+        }
+        .message {
+            font-size: 1.5em;
+            margin: 20px;
+        }
+        .gallery {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .gallery img {
+            width: 200px;
+            height: 200px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Untuk Venitha Sari 💖</h1>
+        <p class="message">Kamu adalah cahaya dalam hidupku, senyum yang selalu kunantikan, dan cinta yang selalu kujaga. Selamat Hari Valentine, sayang! 💕</p>
+        
+        <div class="gallery">
+            <img src="https://via.placeholder.com/200" alt="Foto Kenangan 1">
+            <img src="https://via.placeholder.com/200" alt="Foto Kenangan 2">
+            <img src="https://via.placeholder.com/200" alt="Foto Kenangan 3">
+        </div>
+        
+        <div class="footer">Dengan cinta, <strong>[Nama Anda]</strong> 💌</div>
+    </div>
+</body>
+</html>
